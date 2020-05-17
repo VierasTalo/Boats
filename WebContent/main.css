@@ -1,0 +1,69 @@
+th.vaaka{	
+	color: #216869;
+	font-size: 18px;	
+	text-align: left;	
+}
+th.pysty{	
+	color: #216869;
+	font-size: 18px;	
+}
+td{
+	color: #216869;	
+}
+input[type="button"], input[type="submit"] { 
+	background-color: #9cc5a1;
+    color: #216869;	    
+    cursor: pointer;
+	border: 3px solid grey;
+	border-radius: 5px;
+	width: 250px;
+	height: 45px;
+	font-family: Impact, Helvetica, sans-serif;
+	font-size: 150%;
+}
+
+table{
+	border-radius: 10px;
+	width: 750px;
+	background-color: #9cc5a1;
+	border: 1px solid black;
+}
+
+.poista{
+	text-decoration: none;
+	color: #ff6868;
+	font-family: Impact, Helvetica, sans-serif;
+	padding-right: 10px;
+}
+.muuta{
+	text-decoration: none;
+	color: #49a078;
+	font-family: Impact, Helvetica, sans-serif;
+	padding-left: 10px;
+}
+.nappiSarake{
+	text-align: center;	
+}
+#kirjaudu{
+	background-color: #9cc5a1;
+    color: #216869;    
+    width: 310px;
+	border-radius: 10px;	
+	padding: 14px;
+	
+}
+#hakusana{
+	width: 750px;
+	height: 25px;
+	background-color: #49a078;
+}
+span.login{	
+	width: 70px;
+	display: inline-block;
+	text-align: right;	
+	padding: 5px;
+}
+#nimi,#merkkimalli,#pituus,#leveys,#hinta{
+	background-color: #49a078;
+	color: #216869;
+}
